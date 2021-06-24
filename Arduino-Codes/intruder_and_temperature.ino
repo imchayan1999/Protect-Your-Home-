@@ -30,7 +30,7 @@ void loop() {
     digitalWrite(buzz, HIGH);
     Serial.println("OK");
     delay(1000);
-    Serial.println("ATD+919588264214;");
+    Serial.println("ATD+91xxxxxxxxxx;");
     delay(15000);
     Serial.println("ATH");
     delay(1000);
@@ -50,7 +50,7 @@ void loop() {
     Serial.println("OK");
     delay(1000);
     Serial.println("Yo");
-    Serial.println("ATD+919588264214;");
+    Serial.println("ATD+91xxxxxxxxxx;");
     delay(15000);
     Serial.println("ATH");
     delay(1000);
