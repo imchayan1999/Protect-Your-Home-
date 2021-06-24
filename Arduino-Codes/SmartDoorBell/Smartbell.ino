@@ -8,13 +8,13 @@
 
 #include "camera_pins.h"
 
-#define PHOTO 14      //ESP32 CAM 1
+#define PHOTO 14     
 #define LED 4
 
 
-const char* ssid = "rita";
-const char* password = "codealpha";
-char auth[] = "3SMmUM2TZHPMCLeN9ea11VOe52iDrxWp";
+const char* ssid = "";
+const char* password = "";
+char auth[] = "";
 
 String local_IP;
 int count = 0;
