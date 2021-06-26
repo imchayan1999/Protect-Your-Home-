@@ -17,3 +17,20 @@ Testing Intruder Detection: https://youtu.be/nAthzlHEyr4
 Testing Fire Detection: https://youtu.be/iDdxwjvFLb0
 
 Testing Smoke Detection: https://youtu.be/NU97ik34nic
+
+## Password Protected Door Lock
+
+![im2](https://user-images.githubusercontent.com/45001843/123506770-a0193b00-d683-11eb-9a3f-bc636ebea490.png)
+
+Report presentation for Password Protected Door Lock: https://drive.google.com/file/d/1niMA_2KKlzl8ZcBu0e5iND8BhP1RvA8N/view?usp=sharing
+
+## Face Recognition using OpenCV
+
+Haar-based Cascade Classifier was used for Face recognition.
+
+![im3](https://user-images.githubusercontent.com/45001843/123506959-904e2680-d684-11eb-9bb7-b1913d86793e.png)
+
+![im4](https://user-images.githubusercontent.com/45001843/123507011-c9869680-d684-11eb-95ab-e2ca23476edb.jpg)
+
+Video Link: https://youtu.be/_jOuwoDJsUQ
+
