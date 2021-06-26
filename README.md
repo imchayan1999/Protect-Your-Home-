@@ -24,7 +24,7 @@ Testing Smoke Detection: https://youtu.be/NU97ik34nic
 
 Report presentation for Password Protected Door Lock: https://drive.google.com/file/d/1niMA_2KKlzl8ZcBu0e5iND8BhP1RvA8N/view?usp=sharing
 
-## Face Recognition using OpenCV
+## Face Recognition Door Lock using OpenCV
 
 Haar-based Cascade Classifier was used for Face recognition.
 
@@ -33,4 +33,9 @@ Haar-based Cascade Classifier was used for Face recognition.
 ![im4](https://user-images.githubusercontent.com/45001843/123507011-c9869680-d684-11eb-95ab-e2ca23476edb.jpg)
 
 Video Link: https://youtu.be/_jOuwoDJsUQ
+
+## Smart Door Bell
+
+![im5](https://user-images.githubusercontent.com/45001843/123507081-39951c80-d685-11eb-88d3-a551648c286c.png)
+
 
