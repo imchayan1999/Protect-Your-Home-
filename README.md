@@ -8,6 +8,8 @@ Link to the project report: https://drive.google.com/file/d/1gSrTEDp9qa5FnC5pzVD
 
 Link to the deployed Landing Page: https://protectyourhomelanding.netlify.app/
 
+Github Repo of the Landing Page: https://github.com/imchayan1999/Landing-Page-
+
 ## Intruder, Fire and Smoke Detection
 
 ![im1](https://user-images.githubusercontent.com/45001843/123505950-50387500-d67f-11eb-8f62-39f9a7d790a7.png)
