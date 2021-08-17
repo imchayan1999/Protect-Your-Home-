@@ -1,3 +1,5 @@
+Contributor: Praneet Pandey
+
 # Protect-Your-Home
 
 Protect your Home is a smart IoT based Home Security alarm system which provides features like intruder detection, fire detection, LPG gas leak and smoke detection, password based electronic lock as well as face recognition door lock, and a smart doorbell.
@@ -40,5 +42,3 @@ Video Link: https://youtu.be/_jOuwoDJsUQ
 
 ![im5](https://user-images.githubusercontent.com/45001843/123507081-39951c80-d685-11eb-88d3-a551648c286c.png)
 
-
-Contributor: Praneet Pandey
